@@ -1,8 +1,8 @@
 ## Sales Data Exploratory Data Analysis (EDA) Project
-**Project Overview**
+**Project Overview** : 
 This project performs a comprehensive exploratory data analysis on a synthetically generated sales dataset using Python. The dataset simulates sales transactions across multiple product categories, regions, and customer segments. The aim is to extract meaningful insights through data quality checks, univariate, bivariate analysis, time series trends, and advanced statistical correlations.
 
-**Data Generation**
+**Data Generation** :
 The dataset of 1000 records is generated using the Faker library, simulating realistic order, customer, product, and supplier details including order dates, sales amounts, discounts, profit calculations, stock levels, and delivery statuses.
 
 **Key Analyses Performed**
